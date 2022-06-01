@@ -4,7 +4,7 @@
 - 🥷 Currently a student at Coding Dojo 
 - 🤝🏾 You can connect with me on ... [LinkedIn](https://www.linkedin.com/in/corbin-crawford-257b0423b/)
 - 📫 You can message me at ... <corbin.developer@gmail.com>
-- ❗Proud user of VSCode and Brackets
+- ❗ 
 
 > Thanks for visiting!
 
