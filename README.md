@@ -1,4 +1,4 @@
-# Hello! I’m Corbin C 👋 
+# Hello! I’m Corbin 👋 
 
 - 👨‍💻 Some languages I enjoy → CSS, Javascript, Python, Tailwind, Coffeescript..
 - 🥷 Currently a student at Coding Dojo 
